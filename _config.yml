@@ -39,10 +39,6 @@ features:
     description: Your server data is very important, and all data on the app will only exist locally. At the same time, it is recommended to enable SSL service on your server/Synology to make data transmission more secure.
     fontawesome_icon_name: mobile
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
-
   - title: Monitor hardware status at any time
     description: Built-in remote hard disk viewer to monitor the health and storage status of your Synology hard disk.
     fontawesome_icon_name: sync
