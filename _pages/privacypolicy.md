@@ -9,7 +9,7 @@ Feburary 1 2023
 
 # Privacy Policy for DSMate
 
-We at DSMaterespect your privacy and are committed to protecting it. This privacy policy explains how we handle your personal information when you use our app. We do not use any third-party frameworks and we do not collect or store any user information.
+We at DSMate respect your privacy and are committed to protecting it. This privacy policy explains how we handle your personal information when you use our app. We do not use any third-party frameworks and we do not collect or store any user information.
 
 <br>
 
